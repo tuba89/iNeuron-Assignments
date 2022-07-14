@@ -1,19 +1,20 @@
 # iNeuron-Assignments
 This is the statistics assignment repository for iNeuron-Assignments.
 
-## Question 1): 
+## Question 1) 
 
-* Plot a histogram
+* Plot a histogram,
+
     10, 13, 18, 22, 27, 32, 38, 40, 45, 51, 56, 57, 88, 90, 92, 94, 99
   
 
-## Question 2): 
+## Question 2)
 
 * In a quant test of the CAT Exam, the population standard deviation is known to be 100. 
 A sample of 25 tests taken has a mean of 520. Construct an 80% CI about the mean.
 
 
-## Question 3) 
+## Question 3)
 
 * A car believes that the percentage of citizens in city ABC that owns a vehicle is 60% or less. 
   A sales manager disagrees with this. He conducted a hypothesis testing surveying 250 residents & found that 170 residents responded yes to owning a vehicle.
